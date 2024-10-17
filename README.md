@@ -45,8 +45,12 @@ int main() {
     return 0;
 }
 ```
+## OUTPUT:
+![Screenshot 2024-10-17 093903](https://github.com/user-attachments/assets/0c4fad44-cd72-4fdf-97cd-60a51698f24f)
+
 ## RESULT:
-![Screenshot 2024-10-10 085049](https://github.com/user-attachments/assets/70842e06-211f-4eac-ac95-9b0f814e0f1a)
+The program to generate pseudorandom number executed successfully.
+
 
 
 
